@@ -1,4 +1,4 @@
-# Screen console (Unity / C#)
+# Screen Console (Unity / C#)
 
 ![Screen Console Image](/doc/screen_console.gif)
 
